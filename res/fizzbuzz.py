@@ -1,3 +1,9 @@
+####################################
+# Created by: Sishaar Rao
+# Contact: sishaar@gmail.com
+# GitHub: https://github.com/SishaarRao
+####################################
+
 def main():
     #Prompt for input
     #Catch people that are improperly trying to break the code
